@@ -319,6 +319,8 @@ header::after{
     display: flex;
     flex-flow: wrap;
 	padding: 20px;
+	max-width: 1000px;
+   	margin: 0px auto;
 }
 
 .info-cliente, .info-producto {
