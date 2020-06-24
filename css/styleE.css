@@ -4,12 +4,12 @@ html{
 
 *{margin:0; padding:0;}
 
-#pageA{background:#D69C61;}
-#pageB{background:#D6CF61;}
-#pageC{background:#A8D661;} 
-#pageD{background:#61D6A3; }
-#pageE{background:#61A4D6; }
-#pageF{background:#eb636b; text-align: center;}
+#pageA{background:#D69C61;width: auto;}
+#pageB{background:#D6CF61;width: auto;}
+#pageC{background:#A8D661;width: auto;} 
+#pageD{background:#61D6A3;width: auto;}
+#pageE{background:#61A4D6; width: auto;}
+#pageF{background:#eb636b; text-align: center; width: auto;}
 
 
 ul{width:fit-content; margin:auto; list-style:none;}
